@@ -1,3 +1,7 @@
+# this repo contains a version of scratchattach by timmccool with a wiki-sync action. it uses a github action to sync wiki/ and the gh wiki BOTH WAYS without PAT
+# this means it *could* be integrated into sa **right now**
+
+
 **scratchattach is a Scratch API wrapper with support for almost all site features.** Created by [TimMcCool](https://scratch.mit.edu/users/TimMcCool/).
 
 The library allows setting cloud variables, following users, updating your profile, and

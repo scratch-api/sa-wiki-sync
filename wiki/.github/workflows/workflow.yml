@@ -1,0 +1,10 @@
+name: workflow.yml
+on:
+  push:
+  gollum:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          echo hello

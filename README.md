@@ -1,4 +1,5 @@
 # this repo contains a version of scratchattach by timmccool with a wiki-sync action. it uses a github action to sync wiki/ and the gh wiki BOTH WAYS without PAT
+# this is all just using [this pretty cool and niche github action](https://github.com/level12/gh-action-wiki-sync)
 # this means it *could* be integrated into sa **right now**
 
 
